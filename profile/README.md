@@ -2,21 +2,29 @@
 **Neoficiální** POJFM Github organizace určená nejen pro studenty POJFM.
 
 ### Rules
-1. Používejte repository prefixes ⤵ 
-2. Používejte `Markdown`. Pokud máte například četbu v `.docx`, překonvertujte ji do `.md` a pak nahrajte zde.
-3. Dodržujte jmenné konvence a strukturu složek
-    - Četbu do repa `cetba` nahrávejte pod příslušnou složku. 
-4. Každé repository musí obsahovat `readme.md`, ve kterém bude stručně vysvětleno, o co se jedná, k čemu to je, případně jak zfungovat development enviroment a autor.
+1. Zachovejte **jmenné konvence** a **file/folder strukturu**.
+    - Každý předmět má vlastní repozitář (pokud již byl vytvořen) do kterého se ukládají úkoly z daného předmětu. 
+       - Pokud chcete nahrát úkol, nahrajte jej do `{predmet}/{nazev_ukolu}/`
+    - Vypracované maturitní otázky najdete v repozitáři `maturita`
+       - Pokud chcete nahrát vypracovanou maturitní otázku, nahrajte ji do `maturita/{predmet}/{otazka}/`
+    - Vypracované knížky ze seznamu maturitní četby najedete v repozitáři `cetba`
+       - Pokud chcte nahrát vypracovanou knížku, nahrahte ji do `cetba/{knizka}/`
+2. Používejte **Markdown**. Pokud máte například knížku z četby v `.docx`, překonvertujte ji do `.md` a nahrajte.
+    - `.pdf` používejte jen, pokud je to nezbytně nutné a jedná se například o dokument, který by nemělo smysl přepisovat do **Markdownu**.
+3. Každý repozitář **musí** obsahovat `readme.md`, ve kterém bude stručně a jasně vysvětleno, k čemu daný repozitář je a co se v něm nachází.
+4. Používejte správně **branches** a **pull requesty**.
+5. Používejte správně repository prefixes ⤵.
+6. Vyvarujte se duplicitním souborům, datům a podobně. Snažíme se zde o jednoduchou přehlednost a efektivitu, ať to nedopadne jako častokrát ve škole.
+7. **Řekněte o této organizace ročníku pod sebou,** ale klidně také lidem z jiných škol a tak dále. Cílem je vytvořit systém, díky kterému všichni projdeme bez velkých problému školským systémem vytvořený někdy před X lety. 
+
+
 
 ### Repository prefixes
 Repo prefixes slouží k rychlejší identifikaci repozitářů.  
-*Pokud repo nebude obsahovat prefix, tak jej @maintainers **bez varování smažou.** Neplatí pro repa `readme`, `PRG`, a `cetba`.*
 
 | Prefix | Předmět/Název | Určení | 
 | :---:  |     :---:     | :---:  |
-| `prg`  | Programování  | Úkol a projekty z předmětu _Programování_ |   
 | `dmp`  | Dlouhodobá maturitní práce | Repo obsahující kompletní souboru k Vaší `DMP` |
-| `sap`  | SAP/ABAP      | Úkoly z předmětu _Informační technologie v praxi - SAP_ | 
 
 
-...*and more to come...*
+*@2021 18IT*
