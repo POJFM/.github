@@ -1,4 +1,4 @@
-# POJFM (SPSOAFM) GITHUB ORGANIZATION
+ ![Logo POJFM](../src/Znacka_modra_RGB.png)
 **Neoficiální** POJFM Github organizace určená nejen pro studenty POJFM.
 
 ### Rules
