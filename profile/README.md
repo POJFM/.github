@@ -15,7 +15,8 @@
 4. Používejte správně **branches** a **pull requesty**.
 5. Používejte správně repository prefixes ⤵.
 6. Vyvarujte se duplicitním souborům, datům a podobně. Snažíme se zde o jednoduchou přehlednost a efektivitu, ať to nedopadne jako častokrát ve škole.
-7. **Řekněte o této organizace ročníku pod sebou,** ale klidně také lidem z jiných škol a tak dále. Cílem je vytvořit systém, díky kterému všichni projdeme bez velkých problému školským systémem vytvořený někdy před X lety. 
+7. **Řekněte o této organizace ročníku pod sebou,** ale klidně také lidem z jiných škol a tak dále. Cílem je vytvořit systém, díky kterému všichni projdeme bez velkých problému školským systémem vytvořený někdy před X lety.
+8. Používejte [MIT Licenci](https://opensource.org/licenses/MIT)
 
 
 
