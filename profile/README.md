@@ -1,4 +1,6 @@
- ![Logo POJFM](/src/Znacka_modra_RGB.png)
+**Upozornění: @maintainers této organizace dávno odmaturovali, hledáme nové!** 
+
+![Logo POJFM](/src/Znacka_modra_RGB.png)
 **Neoficiální** POJFM Github organizace určená nejen pro studenty POJFM.
 
 ### Rules
